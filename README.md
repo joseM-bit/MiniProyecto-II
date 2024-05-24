@@ -10,5 +10,7 @@ Una vez ejecutado Python, necesitaremos el usuario y la contraseña que será "a
 3. Configurar MongoDB:
 Para poder acceder al archivo de configuración (sudo nano /etc/mongod.conf), tendremos que poner la IP y el puerto que deseemos. Tanto en el Mongo Compass como en Python, tendremos que poner esa IP y puerto para poder acceder. Nosotros hemos utilizado ('192.168.200.220', 27017), pero cada servidor tendrá una IP diferente.
 
-4. Comenzar a trabajar:
+4.Requeriments.txt
+pip install -r requirements.txt
+5. Comenzar a trabajar:
 ¡Ahora estás listo/a para empezar a trabajar en esta carpeta! Si tienes alguna pregunta o problema, no dudes en contactarme.
